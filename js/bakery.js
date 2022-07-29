@@ -12,7 +12,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`Dough 78% (Wheat Flour, Butter 19%, Water, Yeast, Sugar, Eggs, Salt, Wheat Gluten, Enzymes (Amylases, Hemicellulases), Flour Treatment Agent (E300)), Filling 19% (Water, Emmental 25%, Cheeses 24% (Emmental (Milk, Salt, Lactic Starters, Rennet, Calcium Chloride), Gouda (Milk, Salt, Lactic Starters, Rennet, Calcium Chloride)), Butter, Modified Starch From Maize, Dried Skimmed Milk, Emulsifying Salts (E331, E339, E450, E452), Salt), Finish 3% (Emmental), Egg Wash (Eggs, Water)`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
         ,
         {
@@ -27,7 +27,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces of nuts & Soya.`,
             ingredient:`Wheat Flour, Butter 23%, Water, Yeast, Sugar, Eggs, Salt, Wheat Gluten, Enzymes (Amylases, Hemicellulases), Flour Treatment Agent (Ascorbic Acid). Contains: Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts, Traces Of Soya.`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
         ,
         {
@@ -42,7 +42,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`Wheat Flour, Butter 20%, Water, Chocolate 12% (Sugar, Cocoa Mass, Cocoa Butter, Emulsifier (Soya Lecithin), Natural Vanilla Flavour), Yeast, Sugar, Eggs, Salt, Wheat Gluten, Enzymes (Amylases, Hemicellulases), Flour Treatment Agent (Ascorbic Acid).`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
         ,
         {
@@ -57,7 +57,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`Wheat Flour, Butter 23%, Water, Yeast, Sugar, Eggs, Salt, Wheat Gluten, Enzymes (Amylases, Hemicellulases), Flour Treatment Agent (Ascorbic Acid).`,
-            nutrition:''
+            nutrition:'',amount:10,sale:true
         }
         ,
         {
@@ -72,7 +72,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`Wheat Flour, Water, Fine Butter (Milk) 12%, Tomatoes 7%, Grated Emmental Cheese 7% (Milk, Salt, Lactic Starters (Milk)), Sugar, Yeast, Finish 3% (Brown Flax Seeds), Eggs, Black Olives 3%, Mushrooms 3%, Double Concentrated Tomato Puree, Whey Powder (Milk), Modified Starch, Salt, Wheat Gluten, Basil, Sunflower Oil, Skimmed Milk Powder, Nonhydrogenated Vegetable Oil (Coconut), Thickener (Sodium Alginate), Hens Egg Yolk Powder, Stabilizers (Tetrasodium Diphosphate, Ferrous Gluconate), Onion, Flour Treatment Agents (Ascorbic Acid, Alpha-amylases, Hemicellulases), Acid (Citric Acid), Garlic. Barn Laid Eggs.`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
         ,
         {
@@ -87,7 +87,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`Flour, Milk, Butter, water, water sugar, salt, enhancer, yeast, Gluten, Enzymes, Vanilla and egg`,
-            nutrition:''
+            nutrition:'',amount:10,sale:true
         }
         ,
         {
@@ -102,7 +102,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`flour, emmental cheese, water, butter, egg, yeast, sugar, milk, starch, gluten, salt, oil, coconut and enhancer`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
         ,
         {
@@ -117,7 +117,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`Flour, Milk, Butter, water, water sugar, salt, enhancer, yeast, Gluten, Enzymes, Vanilla and egg`,
-            nutrition:''
+            nutrition:'',amount:10,sale:true
         }
         ,
         {
@@ -132,7 +132,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`flour, butter, whipping cream, water, sugar, salt, yeast, gluten, enzyemes and eggs`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
         ,
         {
@@ -147,7 +147,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`Wheat Flour, Water, Butter 20%, Sugar, Yeast, Salt, Emulsifiers (E471, E322), Wheat Gluten, Deactivated Yeast, Flour Treatment Agent (E300), Enzymes (Hemicellulases, Amylases), Eggs`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
         ,
         {
@@ -162,7 +162,7 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`Wheat Flour, Butter 22%, Water, Zaatar 5% (Thyme, Oregano, Sumac, Salt, Sesame, Rapeseed Oil), Yeast, Sugar, Eggs, Wheat Gluten, Salt, Flour Treatment Agents (Alpha-amylases, Hemicellulases, Ascorbic Acid).`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
         ,
         {
@@ -177,13 +177,13 @@ let bakery={
             -18C or below in freezer.`,
             contain:`Dairy Products, Eggs, Gluten. May Contain: Traces Of Nuts & Soya.`,
             ingredient:`French Emmental Chees, Smoked Turkey, Mustard, Mayonnaise, Greens Mix, Roast Beef ,White Cheddar Cheese, Cream Cheese with Parmesan, Smoked Salmon, Cream Cheese with Dill, Onions, Capers, Arugula, Grison, Grana Padano Cheese`,
-            nutrition:''
+            nutrition:'',amount:10,sale:false
         }
     ]
     ,
     cakes:[
         {
-            id:1,
+            id:13,
             title:`Loves Cake Classic Marble Cake`,
             body:`Gourmet Loves Cake is low in sugar and baked freshly in small batches from all-natural ingredient making it lighter than regular cake. It is the perfect partner for your morning coffee.`,
             image:'https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/7/0/7011389000003_123_.jpg',
@@ -192,11 +192,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:'',
-            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011389000003_Marbel_cake.jpg`
+            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011389000003_Marbel_cake.jpg`,amount:10,sale:false
         }
         ,
         {
-            id:2,
+            id:14,
             title:`Bakery Fresh Madeleines`,
             body:`Sweeten your morning or afternoon tea or coffee with our delicious Madeleines. These puffy French butter cakes are baked to perfection and can be eaten on their own or topped with jam.`,
             image:'https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/x/m/xmas-1.jpg',
@@ -205,11 +205,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:'',
-            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011215000009_Gourmet_Fresh_Madeleine_6pcs.jpg`
+            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011215000009_Gourmet_Fresh_Madeleine_6pcs.jpg`,amount:10,sale:false
         }
         ,
         {
-            id:3,
+            id:15,
             title:`Loves Cake Vegan Banana Cake`,
             body:`Gourmet Loves Cake is low in sugar and baked freshly in small batches from all-natural ingredient making it lighter than regular cake. It is the perfect partner for your morning coffee.`,
             image:'https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/b/a/banana-coconut-milk-cake.jpg',
@@ -218,11 +218,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:'',
-            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011139000000_Banana_Cake_Vegan_1.jpg`
+            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011139000000_Banana_Cake_Vegan_1.jpg`,amount:10,sale:true
         }
         ,
         {
-            id:4,
+            id:16,
             title:`Loves Cake Date & Carrot Streusel`,
             body:`Gourmet Loves Cake is low in sugar and baked freshly in small batches from all-natural ingredient making it lighter than regular cake. It is the perfect partner for your morning coffee.`,
             image:'https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/6/0/6043222000001_123_.jpg',
@@ -231,11 +231,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:'',
-            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/6043222000001_Dates_and_Carrots_Cake_1.jpg`
+            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/6043222000001_Dates_and_Carrots_Cake_1.jpg`,amount:10,sale:false
         }
         ,
         {
-            id:5,
+            id:17,
             title:`Loves Cake Orange & Chia Seeds Cake`,
             body:`Gourmet Loves Cake is low in sugar and baked freshly in small batches from all-natural ingredient making it lighter than regular cake. It is the perfect partner for your morning coffee.`,
             image:'https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/6/0/6043225000008_123_.jpg',
@@ -244,11 +244,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:'',
-            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/6043225000008_Chia_Seed_Cake_1.jpg`
+            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/6043225000008_Chia_Seed_Cake_1.jpg`,amount:10,sale:true
         }
         ,
         {
-            id:6,
+            id:18,
             title:`Plain Muffin`,
             body:`Enjoy the taste of sweet, moist, plain muffins; perfect to eat with tea and coffee.            `,
             image:'https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/8/9/8906040373437-photo.jpg',
@@ -257,11 +257,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:'',
-            nutrition:``
+            nutrition:``,amount:10,sale:false
         }
         ,
         {
-            id:7,
+            id:19,
             title:`Baked Gluten Free Roasted Almond Cookie Cup            `,
             body:`Gluten Free roasted almond cookie cup with seriously dark Italian chocolate. `,
             image:'https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/r/o/roasted_almond.jpg',
@@ -270,14 +270,14 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:'',
-            nutrition:``
+            nutrition:``,amount:10,sale:true
         }
         ,
     ]
     ,
     noGluten:[
         {
-            id:1,
+            id:20,
             title:'Multi-Seed Bread Roll (Contains No Gluten)',
             body:`Freshly baked and carefully handcrafted triple seeded gluten-free bread rolls packed with linseeds, sunflower and psyllium seeds that creates the perfect balance between a thick crust with coarse texture and a soft, chewy interior.
             Tip: Pair it with our vast selection of international cheeses or fresh nut butter.`,
@@ -287,11 +287,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:`maize starch, linseed, xanthan gum, sunflower seeds, soy protein, rice flour, sugar, psyllium seeds, guar gum, yeast extract, rice sourdough, hydroxypropyl methyl-cellulose, inulin, caramel, lentil maltodextrin, sodium diacetate, enzyme salt, sunflower oil, yeast, water`,
-            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011533000002_Multiseeds_G._Free_Bread_Roll.jpg`
+            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011533000002_Multiseeds_G._Free_Bread_Roll.jpg`,amount:10,sale:false
         }
         ,
         {
-            id:2,
+            id:21,
             title:'Gourmet Bakery Bread Roll (Contains No Gluten)',
             body:`Freshly baked and carefully handcrafted gluten-free bread rolls that creates the perfect balance between a thick crust with coarse texture and a soft, chewy interior.
             Tip: Pair it with our vast selection of international cheeses or fresh nut butter.
@@ -302,11 +302,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:`Flex Seeds, Sunflower Seeds, Potato Starch, Water, Rice Starch, Sugar, Xanthan Gum, Hydroxypropyl Methyl Cellulose, Psyllium, Guar Gum, Rapeseed Oil, Lentil, Sodium Diacetate, Enzyme, Salt, Sunflower Oil, Yeast`,
-            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011535000000_Gluten_Free_Bread_Roll.jpg`
+            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011535000000_Gluten_Free_Bread_Roll.jpg`,amount:10,sale:true
         }
         ,
         {
-            id:3,
+            id:22,
             title:'No Gluten Half Baguette',
             body:`Freshly baked and carefully handcrafted gluten-free half baguette made using the finest imported Italian flour to create the perfect contrast between the crunchy & crusty exterior with soft, chewy interior.
             Tip: Toast it and use it as the base of your garlic bread!  
@@ -317,11 +317,11 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:``,
-            nutrition:``
+            nutrition:``,amount:10,sale:false
         }
         ,
         {
-            id:4,
+            id:23,
             title:'White Toast (Contains no Gluten)',
             body:` There's nothing more delicious and easy on the stomach than our white gluten free toast. A healthy and nutritious freshly baked bread, that everyone can enjoy! This product contains NO gluten, but it is made in a facility that processes wheat.
             Ingredients`,
@@ -331,7 +331,7 @@ let bakery={
             storing:'',
             contain:'',
             ingredient:`Maize Starch, Potato Starch, Rice Starch, Linseed, Xanthan Gum, Sunflower Seeds, Rice Flour, Sugar, Psyllium Seeds, Guar Gum, Rapseed Oil, Yeast Extract, Rice Sourdough, Hydroxypropyl Methyl-Cellulose, Inulin, Caramel, Lentil Maltodextrin, Sodium Diacetate, Enzyme, Salt, Sunflower Oil, Yeast, Water.`,
-            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011534000001_Multiseeds_G._Free_Toast.jpg`
+            nutrition:`https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/7011534000001_Multiseeds_G._Free_Toast.jpg`,amount:10,sale:false
         }
 
 
