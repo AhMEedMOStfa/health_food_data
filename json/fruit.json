@@ -6,7 +6,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00422.jpg",
     "weight": "",
     "piece": "1 piece",
-    "price": "EGP 36.99",
+    "price":  36.99,
     "amount": 10,
     "sale": false
   },
@@ -17,7 +17,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/l/e/lemon-balaldi-photo-recovered.jpg  ",
     "weight": "500 g",
     "piece": "",
-    "price": "EGP 38.99",
+    "price":  38.99,
     "amount": 10,
     "sale": false
   },
@@ -28,7 +28,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/g/r/grapes-photo.jpg",
     "weight": "500 g",
     "piece": "",
-    "price": "EGP 19.00",
+    "price":  19.00,
     "amount": 10,
     "sale": false
   },
@@ -39,7 +39,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00520.jpg",
     "weight": "125 g",
     "piece": "",
-    "price": "EGP 149.99",
+    "price":  149.99,
     "amount": 10,
     "sale": false
   },
@@ -50,7 +50,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00548.jpg",
     "weight": "750g",
     "piece": "",
-    "price": "EGP 623.87",
+    "price":  623.87,
     "amount": 10,
     "sale": false
   },
@@ -61,7 +61,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00522.jpg",
     "weight": "125g",
     "piece": "",
-    "price": "EGP 148.23",
+    "price":  148.23,
     "amount": 10,
     "sale": false
   },
@@ -72,7 +72,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/2/0/2028001000000.jpg",
     "weight": "",
     "piece": "1 piece",
-    "price": "EGP 56.99",
+    "price":  56.99,
     "amount": 10,
     "sale": false
   },
@@ -83,7 +83,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00717.jpg",
     "weight": "2.5 kg",
     "piece": "",
-    "price": "EGP 51.25",
+    "price":  51.25,
     "amount": 10,
     "sale": true
   },
@@ -94,7 +94,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/6/0/6028313000009.jpg",
     "weight": "1 kg",
     "piece": "",
-    "price": "EGP 82.99",
+    "price":  82.99,
     "amount": 10,
     "sale": false
   },
@@ -105,7 +105,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00244.jpg",
     "weight": "1 kg",
     "piece": "",
-    "price": "EGP 30.99",
+    "price":  30.99,
     "amount": 10,
     "sale": false
   },
@@ -116,7 +116,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00631.jpg",
     "weight": "500g",
     "piece": "",
-    "price": "EGP 289.99",
+    "price":  289.99,
     "amount": 10,
     "sale": true
   },
@@ -127,7 +127,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/6/0/6027924000002.jpg",
     "weight": "150g",
     "piece": "",
-    "price": "EGP 182.99",
+    "price":  182.99,
     "amount": 10,
     "sale": false
   },
@@ -138,7 +138,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/c/h/cherries.jpg",
     "weight": "1kg",
     "piece": "",
-    "price": "EGP 135.99",
+    "price":  135.99,
     "amount": 10,
     "sale": false
   },
@@ -149,7 +149,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/s/a/salad4-photo_1_.jpg",
     "weight": "500g",
     "piece": "",
-    "price": "EGP 95.00",
+    "price":  95.00,
     "amount": 10,
     "sale": false
   },
@@ -160,7 +160,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/p/a/papaya-photo_1.jpg",
     "weight": "1kg",
     "piece": "",
-    "price": "EGP 53.99",
+    "price":  53.99,
     "amount": 10,
     "sale": false
   },
@@ -171,7 +171,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00116.jpg",
     "weight": "1kg",
     "piece": "",
-    "price": "EGP 52.99",
+    "price":  52.99,
     "amount": 10,
     "sale": true
   },
@@ -182,7 +182,7 @@
     "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/6/0/6027996000009-photo.jpg",
     "weight": "",
     "piece": "1 piece",
-    "price": "EGP 3.99",
+    "price":  3.99,
     "amount": 10,
     "sale": false
   },
@@ -193,7 +193,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00555.jpg",
     "weight": "500g",
     "piece": "",
-    "price": "EGP 289  .99",
+    "price":  289.99,
     "amount": 10,
     "sale": true
   },
@@ -204,7 +204,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/aa00029.jpg",
     "weight": "1kg",
     "piece": "",
-    "price": "EGP 15.99",
+    "price":  15.99,
     "amount": 10,
     "sale": false
   },
@@ -215,7 +215,7 @@
     "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00035.jpg",
     "weight": "1kg",
     "piece": "",
-    "price": "EGP 73.34",
+    "price":  73.34,
     "amount": 10,
     "sale": false
   }
