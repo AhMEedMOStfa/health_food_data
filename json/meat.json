@@ -8,7 +8,7 @@
       "weight": "1kg",
       "price":  250.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 175,
@@ -18,7 +18,7 @@
       "weight": "1kg",
       "price":  297.99,
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":250,"brand":"freshfood"
     },
     {
       "id": 176,
@@ -28,7 +28,7 @@
       "weight": "1kg",
       "price":  2660.90,
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":250,"brand":"freshfood"
     },
     {
       "id": 177,
@@ -38,7 +38,7 @@
       "weight": "1kg",
       "price":  285.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 178,
@@ -48,7 +48,7 @@
       "weight": "1kg",
       "price":  280.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 179,
@@ -58,7 +58,7 @@
       "weight": "1kg",
       "price":  247.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 180,
@@ -68,7 +68,7 @@
       "weight": "1kg",
       "price":  224.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 181,
@@ -78,7 +78,7 @@
       "weight": "520g",
       "price":  80.60,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 182,
@@ -88,7 +88,7 @@
       "weight": "550kg",
       "price":  430.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 183,
@@ -98,7 +98,7 @@
       "weight": "300g",
       "price":  660.0,
      "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 184,
@@ -108,7 +108,7 @@
       "weight": "900g",
       "price":  427.99,
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":250,"brand":"freshfood"
     },
     {
       "id": 185,
@@ -118,7 +118,7 @@
       "weight": "500g",
       "price":  487.50,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":250,"brand":"freshfood"
     },
     {
       "id": 186,
@@ -128,7 +128,7 @@
       "weight": "2.5kg",
       "price":  1713.96,
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":250,"brand":"freshfood"
     },
     {
       "id": 187,
@@ -138,7 +138,7 @@
       "weight": "6kg",
       "price":  4700.96,
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":250,"brand":"freshfood"
     }
   ],
   "lamb": [
@@ -150,7 +150,7 @@
       "weight": "2.8kg",
       "price":  1000.98,
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":294,"brand":"freshfood"
     },
     {
       "id": 189,
@@ -160,7 +160,7 @@
       "weight": "2.7kg",
       "price":  1120.90,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":294,"brand":"freshfood"
     },
     {
       "id": 190,
@@ -170,7 +170,7 @@
       "weight": "500g",
       "price":  220.99,
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":294,"brand":"freshfood"
     },
     {
       "id": 191,
@@ -180,7 +180,7 @@
       "weight": "1kg",
       "price":  279.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":294,"brand":"freshfood"
     },
     {
       "id": 192,
@@ -190,7 +190,7 @@
       "weight": "1kg",
       "price":  332.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":294,"brand":"freshfood"
     },
     {
       "id": 193,
@@ -200,7 +200,7 @@
       "weight": "2.8kg",
       "price":  259.99,
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":294,"brand":"freshfood"
     },
     {
       "id": 194,
@@ -210,7 +210,7 @@
       "weight": "520g",
       "price":  230.99,
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":294,"brand":"freshfood"
     }
   ]
 }

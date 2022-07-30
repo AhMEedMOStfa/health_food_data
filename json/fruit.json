@@ -8,7 +8,7 @@
     "piece": "1 piece",
     "price":  36.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":42,"brand":"freshfood"
   },
   {
     "id": 45,
@@ -19,7 +19,7 @@
     "piece": "",
     "price":  38.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":32,"brand":"gourmet"
   },
   {
     "id": 46,
@@ -30,7 +30,7 @@
     "piece": "",
     "price":  19.00,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":55,"brand":"gourmet"
   },
   {
     "id": 47,
@@ -41,7 +41,7 @@
     "piece": "",
     "price":  149.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":22,"brand":"freshfood"
   },
   {
     "id": 48,
@@ -52,7 +52,7 @@
     "piece": "",
     "price":  623.87,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":36,"brand":"freshfood"
   },
   {
     "id": 49,
@@ -63,7 +63,7 @@
     "piece": "",
     "price":  148.23,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":32,"brand":"freshfood"
   },
   {
     "id": 50,
@@ -74,7 +74,7 @@
     "piece": "1 piece",
     "price":  56.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":42,"brand":"gourmet"
   },
   {
     "id": 51,
@@ -85,7 +85,7 @@
     "piece": "",
     "price":  51.25,
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":55,"brand":"freshfood"
   },
   {
     "id": 52,
@@ -96,7 +96,7 @@
     "piece": "",
     "price":  82.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":63,"brand":"gourmet"
   },
   {
     "id": 53,
@@ -107,7 +107,7 @@
     "piece": "",
     "price":  30.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":67,"brand":"freshfood"
   },
   {
     "id": 54,
@@ -118,7 +118,7 @@
     "piece": "",
     "price":  289.99,
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":72,"brand":"freshfood"
   },
   {
     "id": 55,
@@ -129,7 +129,7 @@
     "piece": "",
     "price":  182.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":54,"brand":"gourmet"
   },
   {
     "id": 56,
@@ -151,7 +151,7 @@
     "piece": "",
     "price":  95.00,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":42,"brand":"gourmet"
   },
   {
     "id": 58,
@@ -162,7 +162,7 @@
     "piece": "",
     "price":  53.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":52,"brand":"gourmet"
   },
   {
     "id": 59,
@@ -173,7 +173,7 @@
     "piece": "",
     "price":  52.99,
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":33,"brand":"freshfood"
   },
   {
     "id": 60,
@@ -184,7 +184,7 @@
     "piece": "1 piece",
     "price":  3.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":42,"brand":"gourmet"
   },
   {
     "id": 61,
@@ -195,7 +195,7 @@
     "piece": "",
     "price":  289.99,
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":35,"brand":"freshfood"
   },
   {
     "id": 62,
@@ -206,7 +206,7 @@
     "piece": "",
     "price":  15.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":71,"brand":"freshfood"
   },
   {
     "id": 63,
@@ -217,6 +217,6 @@
     "piece": "",
     "price":  73.34,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":28,"brand":"freshfood"
   }
 ]

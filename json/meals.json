@@ -12,7 +12,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":120,"brand":"lowcarbcabana"
     },
     {
       "id": 151,
@@ -26,7 +26,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":120,"brand":"lowcarbcabana"
     },
     {
       "id": 152,
@@ -40,7 +40,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 153,
@@ -54,7 +54,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 154,
@@ -68,7 +68,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":90,"brand":"lowcarbcabana"
     },
     {
       "id": 155,
@@ -82,7 +82,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":90,"brand":"lowcarbcabana"
     },
     {
       "id": 156,
@@ -96,7 +96,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 157,
@@ -110,7 +110,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":90,"brand":"lowcarbcabana"
     },
     {
       "id": 158,
@@ -124,7 +124,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 159,
@@ -138,7 +138,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 160,
@@ -152,7 +152,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 161,
@@ -166,7 +166,7 @@
       "ingredient": "",
       "weight": "",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     }
   ],
   "luanch": [
@@ -182,7 +182,7 @@
       "nutrition": "https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/2043047000000_Gourmet_Oriental_Chicken_Shish_Tawouk.jpg",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":300,"brand":"gourmet"
     },
     {
       "id": 163,
@@ -196,7 +196,7 @@
       "nutrition": "https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/6041030000008_Chicken_Schnitzel_With_Herbs.jpg",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":270,"brand":"gourmet"
     },
     {
       "id": 164,
@@ -210,7 +210,7 @@
       "nutrition": "https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/2043090000000_Gourmet_Spiced_Chicken_Shawerma.jpg",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":290,"brand":"gourmet"
     },
     {
       "id": 165,
@@ -222,7 +222,7 @@
       "nutrition": "https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/2043052000000_shish.png",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":260,"brand":"gourmet"
     },
     {
       "id": 166,
@@ -236,7 +236,7 @@
       "nutrition": "https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/2043067000000_Gourmet_Zaatar_Whole_Chicken_in_Oven_Bag.jpg",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":320,"brand":"gourmet"
     },
     {
       "id": 167,
@@ -250,7 +250,7 @@
       "nutrition": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":140,"brand":"gourmet"
     },
     {
       "id": 168,
@@ -264,7 +264,7 @@
       "nutrition": "https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/6041029000002_Classic_Chicken_Schnitzel.jpg",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":270,"brand":"gourmet"
     },
     {
       "id": 169,
@@ -278,7 +278,7 @@
       "nutrition": "https://cdn.gourmetegypt.com/media/wysiwyg/nutritions/2043087000000_Gourmet_Tandouri_Chicken_Thigh.jpg",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":380,"brand":"gourmet"
     },
     {
       "id": 170,
@@ -292,7 +292,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/04/mac-and-cheese.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":150,"brand":"lowcarbcabana"
     },
     {
       "id": 171,
@@ -306,7 +306,7 @@
       "ingredient": "",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":120,"brand":"lowcarbcabana"
     },
     {
       "id": 172,
@@ -320,7 +320,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/04/chickenalfredo_nutrition.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 173,
@@ -334,7 +334,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/04/creamychickenpasta_nutrition-1.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":120,"brand":"lowcarbcabana"
     }
   ]
 }

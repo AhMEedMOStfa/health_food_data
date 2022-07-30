@@ -10,7 +10,7 @@
       "ingredient": "Water, Coconut Oil (15%), Starch, Modified Starch, Barley Starch (Gluten Free), Sea Salt, Sunflower Kernel Grounded, Acidity Regulator Glucono Delta Lactone, Flavourings, Olive Extract, Colour B-Carotene, Vitamin B12",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":570,"brand":"gourmet"
     },
     {
       "id": 238,
@@ -22,7 +22,7 @@
       "ingredient": "Water, Coconut oil (23%), Modified Starch*, Starch, Sea salt, Mozzarella flavour, Olive extract, Colour: B-Carotene, Vitamin B12. *Not to be confused with GMO (Genetically Modified) ingredients.",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":610,"brand":"gourmet"
     },
     {
       "id": 239,
@@ -34,7 +34,7 @@
       "ingredient": "\n            Ingredients : filtered water , refined coconut oil (23%),modified potato starch , sea salt and vegan flavor Usage : add to pizza or pasta",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":400,"brand":"gourmet"
     },
     {
       "id": 240,
@@ -46,7 +46,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":520,"brand":"gourmet"
     },
     {
       "id": 241,
@@ -58,7 +58,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":430,"brand":"gourmet"
     },
     {
       "id": 242,
@@ -70,7 +70,7 @@
       "ingredient": "\n            Water, Coconut oil (23%), Modified Starch*, Starch, Sea salt, Green & Red dried peppers (1.5%), Chilies cayenne pepper, Flavourings, Olive extract, Colour: B-Carotene, Vitamin B12. *Not to be confused with GMO (Genetically Modified) ingredients",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":330,"brand":"gourmet"
     }
   ],
   "meatSubstitution": [
@@ -84,7 +84,7 @@
       "ingredient": "\n            Protein (peas and rice), dried mung bean flakes, roasted onion (90% onion, sunflower oil), thickener (E461), starch, yeast extract, olive oil, beetroot concentrate, edible salt enriched with iodine (edible salt , potassium iodate), dried vegetables, spices, aroma, psyllium, caramelized sugar, acidity regulator (sodium diacetate), antioxidant (ascorbic acid), Sunflower oil, water.",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":266,"brand":"gourmet"
     },
     {
       "id": 244,
@@ -96,7 +96,7 @@
       "ingredient": "\n            Protein (peas and rice), dried mung bean flakes, roasted onion (90% onion, sunflower oil), thickener (E461), starch, yeast extract, olive oil, beetroot concentrate, edible salt enriched with iodine (edible salt , potassium iodate), dried vegetables, spices, aroma, psyllium, caramelized sugar, acidity regulator (sodium diacetate), antioxidant (ascorbic acid), Sunflower oil, water, Breadcrumbs, Panko.",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":254,"brand":"gourmet"
     },
     {
       "id": 245,
@@ -108,7 +108,7 @@
       "ingredient": "Lentil, bulgur, onion, garlic, tomato paste, carrot, olive oil, water, pomegranate molasses, wheat flour, chili paste, coriander, parsley, 7 spices, cumin, salt",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":540,"brand":"gourmet"
     },
     {
       "id": 246,
@@ -120,7 +120,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":450,"brand":"gourmet"
     },
     {
       "id": 247,
@@ -132,7 +132,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":610,"brand":"gourmet"
     },
     {
       "id": 248,
@@ -144,7 +144,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":590,"brand":"gourmet"
     },
     {
       "id": 249,
@@ -156,7 +156,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":220,"brand":"gourmet"
     },
     {
       "id": 250,
@@ -168,7 +168,7 @@
       "ingredient": "\n            Protein (peas and rice), dried mung bean flakes, roasted onion (90% onion, sunflower oil), thickener (E461), starch, yeast extract, olive oil, beetroot concentrate, edible salt enriched with iodine (edible salt , potassium iodate), dried vegetables, spices, aroma, psyllium, caramelized sugar, acidity regulator (sodium diacetate), antioxidant (ascorbic acid), Sunflower oil, water.",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":307,"brand":"gourmet"
     },
     {
       "id": 251,
@@ -180,7 +180,7 @@
       "ingredient": "GoodEarth Plant-Based Meat200g Frozen Item Vegan",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":520,"brand":"gourmet"
     },
     {
       "id": 252,
@@ -192,7 +192,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":440,"brand":"gourmet"
     }
   ],
   "readyToEat": [
@@ -206,7 +206,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"gourmet"
     },
     {
       "id": 254,
@@ -218,7 +218,7 @@
       "ingredient": "Rice White, Black Lentil, Cumin Powder, Salt, Sunflower Oil, Tomato, Garlic, Chili Powder, Red Chili Capsicum, Italian Lemon, Water,Coriander Powder, White Vinegar, Tomato Paste, White Onion, Chick Peas",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":160,"brand":"gourmet"
     },
     {
       "id": 255,
@@ -230,7 +230,7 @@
       "ingredient": "Onion, Potatoes, Broccoli, Beetroot, Salt, Pepper, Olive oil, Balsamic vinegar, Thyme, Rosemary, Black pepper.",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":110,"brand":"gourmet"
     },
     {
       "id": 256,
@@ -242,7 +242,7 @@
       "ingredient": "Molokhia vegetable stock salt black pepper cardamom cinnamon 7 spices",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":550,"brand":"gourmet"
     },
     {
       "id": 257,
@@ -254,7 +254,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":640,"brand":"gourmet"
     },
     {
       "id": 258,
@@ -266,7 +266,7 @@
       "ingredient": "white rice, vermicelli, butter, sunflower oil, salt, laurel leaf ",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":200,"brand":"gourmet"
     }
   ],
   "veganSweet": [
@@ -280,7 +280,7 @@
       "ingredient": "Certified Gluten-free and GMO free oat flour , almond , pure grade A. Canadian Maple Syrup , blackstrap molasses , dairy free 70% dark chocolate chunks , vanilla , cinnamon , baking soda , sea salt",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":120,"brand":"gourmet"
     },
     {
       "id": 260,
@@ -292,7 +292,7 @@
       "ingredient": "",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":108,"brand":"gourmet"
     },
     {
       "id": 261,
@@ -304,7 +304,7 @@
       "ingredient": "Almond flour, Certified Gluten-free and GMO free oat flour , unpasteurized raw clover honey , almond milk, vanilla , medjool date paste , cinnamon , baking soda , sea salt",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":66,"brand":"gourmet"
     },
     {
       "id": 262,
@@ -316,7 +316,7 @@
       "ingredient": "Certified Gluten-free and GMO free oat flour , peanut butter , peanut , pure grade A. Canadian Maple Syrup , blackstrap molasses, 70% dairy free dark chocolate vanilla , baking soda , sea salt Granville Vegan Chocolate Crunch 45g, granville, vegan, chocolate, crunch, vegan chocolate, vegan crunch, vegan chocolate crunch,",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":78,"brand":"gourmet"
     },
     {
       "id": 263,
@@ -328,7 +328,7 @@
       "ingredient": "Certified Gluten-free and GMO free oat flour , almond , pure grade A. Canadian Maple Syrup , blackstrap molasses, raw pecan , vanilla , cinnamon , nutmeg , baking soda , sea salt",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":90,"brand":"gourmet"
     },
     {
       "id": 264,
@@ -340,7 +340,7 @@
       "ingredient": "Goji Berries, Coconut Shavings, Pumpkin Seeds",
       "brandUrl": "https://www.gourmetegypt.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":86,"brand":"gourmet"
     }
   ]
 }

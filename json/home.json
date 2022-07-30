@@ -56,6 +56,202 @@
       "image": "https://img.freepik.com/premium-photo/mixed-vegetables-fruits-healthy-food-clean-eating-health_73523-2767.jpg?size=626&ext=jpg&ga=GA1.2.1263842420.1656530364"
     }
   ],
+
+  "fruits":[
+    {
+      "id": 44,
+      "title": "Fresh Coconut - 1 Piece",
+      "body": "This Fresh Coconut is a naturally cultivated food item with high mineral content. Its coconut oil helps to increase good (HDL) cholesterol and lowers bad (LDL) cholesterol. The coconut contains an abundance of fiber that keeps your digestive system healthy and helps to maintain regular bowel movement. This fresh coconut also provides water, milk, and coconut flesh that may aid in weight loss.",
+      "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00422.jpg",
+      "weight": "",
+      "piece": "1 piece",
+      "price":  36.99,
+      "amount": 10,
+      "sale": false,"calories":42,"brand":"freshfood"
+    },
+    {
+      "id": 45,
+      "title": "Lemon Baladi, Fresh 500g",
+      "body": " Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/l/e/lemon-balaldi-photo-recovered.jpg  ",
+      "weight": "500 g",
+      "piece": "",
+      "price":  38.99,
+      "amount": 10,
+      "sale": false,"calories":32,"brand":"gourmet"
+    },
+    {
+      "id": 46,
+      "title": "White Grapes, Fresh 500g",
+      "body": "We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, ",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/g/r/grapes-photo.jpg",
+      "weight": "500 g",
+      "piece": "",
+      "price":  19.00,
+      "amount": 10,
+      "sale": false,"calories":55,"brand":"gourmet"
+    }
+  ]
+  ,
+  "chicken":[
+    {
+      "id": 24,
+      "title": "Fresh Chicken Breasts",
+      "body": "Enjoy our fresh & tender chicken breasts, made with hormone-free & grain-fed chickens, sourced from the most sustainable Egyptian suppliers. Have them grilled, pan-fried or baked in the oven. Serve with Gourmet Roasted Vegetables, Gourmet Mashed Potato or your favorite Gourmet fresh salad for a delicious & filling meal!",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/2/0/2043049000000_1_1.jpg",
+      "weight": "600g",
+      "price":  72.99,
+      "amount": 10,
+      "sale": false,"calories":142,"brand":"gourmet"
+    },
+    {
+      "id": 25,
+      "title": "Fresh Chicken Escalope",
+      "body": "Fresh and juicy premium chicken escalope that can be enjoyed fried, breaded or rolled. Delicious in every bite. For a hearty, yummy meal, add a tasty mushroom sauce and some mashed potatoes as a side. It's that simple!",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/2/0/2043070000000.jpg",
+      "weight": "550g",
+      "price":  68.99,
+      "amount": 10,
+      "sale": false,"calories":152,"brand":"gourmet"
+    },
+    {
+      "id": 26,
+      "title": "Fresh Chicken Leg",
+      "body": "Makes the perfect quick dinner fix and great party food! Can be cooked in so many different ways. Delicious caramelised and baked in the oven (use your preferred marinade for a juicy glaze) or breaded and fried. Serve with Gourmet Dip It Tzatziki and your preferred Gourmet fresh salad. Our chicken are sourced from the most sustainable Egyptian suppliers, they are hormone free and grain fed.",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/s/m/smart_chicken_organic_whole_chicken_legs.jpg",
+      "weight": "500g",
+      "price":  31.32,
+      "amount": 10,
+      "sale": false,"calories":134,"brand":"gourmet"
+    },
+    {
+      "id": 27,
+      "title": "Fresh Whole Chicken",
+      "body": "Enjoy our fresh whole chicken, hormone free & grain fed sourced from the most sustainable Egyptian suppliers. We recommend serving our whole chicken roasted in the oven with fresh rosemary, carrots & baby potatoes. Serve with Gourmet Mashed Potato with Nutmeg and Gourmet Roasted Vegetables for a delicious and easy-to-prepare meal!",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/2/0/2043064000000_1.jpg",
+      "weight": "1.2kg",
+      "price":  80.99,
+      "amount": 10,
+      "sale": false,"calories":138,"brand":"gourmet"
+    },
+    {
+      "id": 28,
+      "title": "Fresh Chicken Wings",
+      "body": "Enjoy our fresh chicken wings, made with hormone free & grain fed chickens, sourced from the most sustainable Egyptian suppliers. We recommend serving our chicken wings baked in the oven with a splash of BBQ and Worcestershire sauce!",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/c/2/c29c8d8d-71dc-452b-8856-ce9878cad6f6.jpeg",
+      "weight": "550g",
+      "price":  24.99,
+      "amount": 10,
+      "sale": false,"calories":155,"brand":"gourmet"
+    },
+    {
+      "id": 29,
+      "title": "Fresh Chicken Liver",
+      "body": "Our fresh chicken liver, made with hormone free & grain fed chickens and sourced from the most sustainable Egyptian suppliers.",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/2/0/2043064000000_1.jpg",
+      "weight": "500g",
+      "price":  35.99,
+      "amount": 10,
+      "sale": false,"calories":185,"brand":"gourmet"
+    }
+  ]
+  ,
+  "vegetables":[
+    {
+      "id": 265,
+      "title": "Cucumbers Fresh",
+      "body": "Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured; Gourmet Fresh produce is screened through a meticulous, global standard selection process. All to ensure that when you shop with Gourmet, you shop in confidence",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/c/u/cucumbers_500g_gourmet_fresh-6028570000002.jpg",
+      "weight": "500g",
+      "price":  21.00,
+      "amount": 10,
+      "sale": false,"calories":40,"brand":"gourmet"
+    },
+    {
+      "id": 266,
+      "title": "Tomatoes Fresh",
+      "body": "Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured; Gourmet Fresh produce is screened through a meticulous, global standard selection process. All to ensure that when you shop with Gourmet, you shop in confidence",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/t/o/tomatoes_500g_gourmet_fresh-6028572000000.jpg",
+      "weight": "500g",
+      "price":  22.00,
+      "amount": 10,
+      "sale": true,"calories":36,"brand":"gourmet"
+    },
+    {
+      "id": 267,
+      "title": "Cherry Tomatoes Fresh",
+      "body": "Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured; Gourmet Fresh produce is screened through a meticulous, global standard selection process. All to ensure that when you shop with Gourmet, you shop in confidence",
+      "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/c/h/cherry_tom_250g_gourmet_fresh-6028568000007.jpg",
+      "weight": "500g",
+      "price":  68.00,
+      "amount": 10,
+      "sale": false,"calories":30,"brand":"gourmet"
+    },
+    {
+      "id": 268,
+      "title": "Baby Broccoli 12X200G",
+      "body": "Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured; Gourmet Fresh produce is screened through a meticulous, global standard selection process. All to ensure that when you shop with Gourmet, you shop in confidence",
+      "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AB03055.jpg",
+      "weight": "2.4kg",
+      "price":  118.00,
+      "amount": 10,
+      "sale": false,"calories":46,"brand":"freshfood"
+    }
+  ]
+  ,
+  "keto":[
+    {
+      "id": 89,
+      "title": "Tuna Pizza",
+      "price":  130.00,
+      "brandUrl": "https://keto-rockets.com/",
+      "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3169-640x425.jpg",
+      "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Tuna-Pizza.jpg",
+      "amount": 10,
+      "sale": false,"calories":129,"brand":"keto-rockets"
+    },
+    {
+      "id": 90,
+      "title": "Salami Pizza",
+      "price":  130.00,
+      "brandUrl": "https://keto-rockets.com/",
+      "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3168-1-640x425.jpg",
+      "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Salami-Pizza.jpg",
+      "amount": 10,
+      "sale": false,"calories":142,"brand":"keto-rockets"
+    },
+    {
+      "id": 91,
+      "title": "Chicken Pizza",
+      "price":  125.00,
+      "brandUrl": "https://keto-rockets.com/",
+      "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3172-1-640x425.jpg",
+      "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Chicken-Pizza.jpg",
+      "amount": 10,
+      "sale": true,"calories":128,"brand":"keto-rockets"
+    },
+    {
+      "id": 92,
+      "title": "Double Beaf Burger Sandwich",
+      "price":  160.00,
+      "brandUrl": "https://keto-rockets.com/",
+      "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3078-1-640x425.jpg",
+      "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Double-Beaf-Burger-Sandwich.jpg",
+      "amount": 10,
+      "sale": false,"calories":781,"brand":"keto-rockets"
+    },
+    {
+      "id": 93,
+      "title": "Ketogenic Cake",
+      "price":  310.00,
+      "brandUrl": "https://keto-rockets.com/",
+      "image": "https://keto-rockets.com/wp-content/uploads/2022/02/msg-353067640-21951-640x480.jpg",
+      "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Cake.jpg",
+      "amount": 10,
+      "sale": true,"calories":128,"brand":"keto-rockets"
+    }
+  ]
+  ,
   "topProducts": [
     {
       "id": 75,
@@ -254,6 +450,5 @@
       "amount": 10,
       "sale": false
     }
-  ],
-  "sale": []
+  ]
 }

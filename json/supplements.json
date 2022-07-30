@@ -15,7 +15,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/8104/image_1920/%5B748927051278%5D%20Optimum%20Nutrition%20Whey%20Gold%20Standard-149Serv.-4.54KG-Double%20Rich%20Chocolate?unique=04f4d35",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2821/image_1920/Optimum%20Whey%20Gold%20Standard-149Serv.-4.54KG-Chocolate%20facts?unique=760948c",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":120,"brand":"maxmuscleelite"
   },
   {
     "id": 223,
@@ -33,7 +33,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7940/image_1920/%5B850004759639%5D%20Redcon1%20Isotope%20100%25Whey%20Isolate-71Serv.-2.421G.-Peanut%20Butter%20Chocolate?unique=fcf018d",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2503/image_1920/Redcon1%20Isotope%20100%25Whey%20Isolate-71Serv.-2.421G.-Peanut%20Butter%20Chocolate?unique=b7c163d",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":130,"brand":"maxmuscleelite"
   },
   {
     "id": 224,
@@ -51,7 +51,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7586/image_1920/%5B631656258806%5D%20Muscletech%20Nitrotech%20100%25%20Whey%20Gold-76Serv.-2.51KG-Vanilla?unique=0c691a0",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/1937/image_1920/Muscletech%20Nitrotech%20100%25%20Whey%20Gold-76Serv.-2.51KG-Double%20Rich%20Chocolate?unique=2ee91f8",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":120,"brand":"maxmuscleelite"
   },
   {
     "id": 225,
@@ -69,7 +69,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/6195/image_1920/%5B631656710519%5D%20Muscletech%20Nitrotech%20100%25%20Whey%20Gold-69Serv.-2.27KG-French%20Vanilla%20Cream?unique=84c7311",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2760/image_1920/Muscletech%20Nitrotech%20100%25%20Whey%20Gold-77Serv.-2.51KG-French%20Vanilla%20Cream?unique=638c097",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":120,"brand":"maxmuscleelite"
   },
   {
     "id": 226,
@@ -87,7 +87,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/6584/image_1920/%5B859400007566%5D%20Nutrex%20Research%20Isofit-70Serv.-2261g-vanilla?unique=ed9697f",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/693/image_1920/Nutrex%20Isofit-70Serv.-2261g-vanilla?unique=56ce476",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":125,"brand":"maxmuscleelite"
   },
   {
     "id": 227,
@@ -105,7 +105,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7573/image_1920/%5B631656258967%5D%20Muscletech%20NitroTech-40serv.-1.80Kg.-Milk%20Chocolate?unique=4df1e9e",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/1926/image_1920/Muscletech%20NitroTech-41serv.-1.80Kg.-Milk%20Chocolate?unique=7403b45",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":160,"brand":"maxmuscleelite"
   },
   {
     "id": 228,
@@ -123,7 +123,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7935/image_1920/%5B818901024311%5D%20Evlution%20Nutrmon%20Whey%20Protein-56Serv.-2.268KG.-Double%20Rich%20Chocolate?unique=d30810b",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2494/image_1920/Evlution%20Nutrmon%20Whey%20Protein-56Serv.-2.268KG.-Double%20Rich%20Chocolate?unique=2b95723",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":150,"brand":"maxmuscleelite"
   },
   {
     "id": 229,
@@ -141,7 +141,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7937/image_1920/%5B850004759554%5D%20Redcon%201%20Ration%20Whey%20Protein%20Blend-65Serv.-2.307G.-Peanut%20Butter%20Chocolate?unique=6c690b7",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2500/image_1920/Redcon%201%20Ration%20Whey%20Protein%20Blend-65Serv.-2.307G.-Peanut%20Butter%20Chocolate?unique=f494c08",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":130,"brand":"maxmuscleelite"
   },
   {
     "id": 230,
@@ -159,7 +159,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7882/image_1920/%5B810516031203%5D%20Bpi%20Sports%20ISO%20HD-69Serv.-2%2C208G.-Chocolate%20Brownie?unique=1e39265",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2389/image_1920/Bpi%20Sports%20ISO%20HD%20-69Serv.2%2C208G.Chocolate%20Brownie?unique=179a90e",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":120,"brand":"maxmuscleelite"
   },
   {
     "id": 231,
@@ -177,7 +177,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7431/image_1920/%5B834266007103%5D%20Bsn%20Syntha-6%20Ultra%20Premium%20Protein%20Matrix%2048Serv.-2.27KG-Vanilla%20Ice%20cream?unique=8457193",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/1738/image_1920/Bsn%20Syntha-6%20Ultra%20Premium%20Protein%20Matrix%2048Serv.-2.27KG-Vanilla%20Ice%20cream?unique=018e069e",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":200,"brand":"maxmuscleelite"
   },
   {
     "id": 232,
@@ -195,7 +195,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7877/image_1920/%5B5902448240046%5D%20Skull%20Labs%20100%25%20Whey%20Isolate-66Serv.-2Kg.-Vanilla?unique=41695bc",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2440/image_1920/Skull%20Labs%20100%25%20Whey%20Isolate-66Serv.-2Kg.-Vanilla?unique=2c6f523",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":438,"brand":"maxmuscleelite"
   },
   {
     "id": 233,
@@ -211,7 +211,9 @@
     "price": 2000.00,
     "body": "The most powerful creatine that helps your muscles produce energy during heavy lifting or HIIT exercise.\n\n        Increase strength, muscle size & fullness.\n        \n        Fast muscle growth & enhanced nutrient transport.\n        \n        Muscle-fueling BCAAs & cell-volumizing aminos.\n        \n        Help support muscle recovery.\n        \n        DIRECTIONS:\n        \n         Take 1 scoop of CELL - TECH \" with 6 oz of water immediately following your workout. If you're not training that day, have your serving in the morning when you wake up.\n         FOR BETTER RESULTS:\n        \n         Take 2 scoops of CELL - TECH with 12 oz . of water immediately following your workout If you're not training that day, take 2 scoops in the morning when you wake up.\n        \n        \n        \n         FOR BEST RESULTS:\n        \n         For the first 7 days (loading stage): Take 2 scoops of CELL - TECH with 12 oz of water in the morning when you wake up and 2 scoops with 12 oz of water immediately after your workout. If you're not training that day, take 2 scoops with 12 oz . of water in the morning when you wake up and 2 scoops with 12 oz of water later in the day.\n        \n        Maintenance stage : Take 2 scoops of CELL - TECH with 12 oz of water immediately following your workout. If you're not training that day, take 2 scoops with 12 oz of water in the morning when you wake up.",
     "image": "https://www.maxmuscleelite.com/web/image/product.product/4815/image_1920/%5B631656703221%5D%20Muscletech%20Performance%20Series%20Cell%20Tech-56Serv.-2.74G-Orange?unique=c3793b1",
-    "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/1103/image_1920/MuscleTech%20Performance%20series%20CellTech-56Serv.-2.74G-Orange?unique=bf5a490"
+    "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/1103/image_1920/MuscleTech%20Performance%20series%20CellTech-56Serv.-2.74G-Orange?unique=bf5a490",
+    "amount": 10,
+    "sale": false,"calories":140,"brand":"maxmuscleelite"
   },
   {
     "id": 234,
@@ -229,7 +231,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/8102/image_1920/%5B748927064162%5D%20Optimum%20Nutrition%20Serious%20Mass-16Serv.-5.4KG-Vanilla?unique=e55075e",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2819/image_1920/Optimum%20Nutrition%20Serious%20Mass-16Serv.-5.4KG-Vanilla?unique=a9960f2",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":400,"brand":"maxmuscleelite"
   },
   {
     "id": 235,
@@ -247,7 +249,7 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/8103/image_1920/%5B748927051261%5D%20Optimum%20Nutrition%20Whey%20Gold%20Standard-74Serv.-2.27KG-Double%20Rich%20Chocolate?unique=761ed67",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2820/image_1920/Optimum%20Whey%20Gold%20Standard-74Serv.-2.27KG-Double%20Rich%20Chocolate%20facts?unique=727b03a",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":120,"brand":"maxmuscleelite"
   },
   {
     "id": 236,
@@ -265,6 +267,6 @@
     "image": "https://www.maxmuscleelite.com/web/image/product.product/7820/image_1920/%5B666222008745%5D%20Mhp%20Maximum%20Whey%20Protein-62Serv.-2275G-Cookies%26Cream?unique=ff9e26d",
     "nutrition": "https://www.maxmuscleelite.com/web/image/product.image/2279/image_1920/Mhp%20Maximum%20Whey%20Protein-62Serv.-2275G-Cookies%26Cream?unique=217167f",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":140,"brand":"maxmuscleelite"
   }
 ]

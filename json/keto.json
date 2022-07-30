@@ -7,7 +7,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3169-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Tuna-Pizza.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":129,"brand":"keto-rockets"
   },
   {
     "id": 90,
@@ -17,7 +17,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3168-1-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Salami-Pizza.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":142,"brand":"keto-rockets"
   },
   {
     "id": 91,
@@ -27,7 +27,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3172-1-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Chicken-Pizza.jpg",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":128,"brand":"keto-rockets"
   },
   {
     "id": 92,
@@ -37,7 +37,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3078-1-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Double-Beaf-Burger-Sandwich.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":781,"brand":"keto-rockets"
   },
   {
     "id": 93,
@@ -47,7 +47,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/msg-353067640-21951-640x480.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Cake.jpg",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":128,"brand":"keto-rockets"
   },
   {
     "id": 94,
@@ -57,7 +57,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3177-640x426.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Basbosa.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":91,"brand":"keto-rockets"
   },
   {
     "id": 95,
@@ -67,7 +67,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC04805-640x427.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Chocolate-Spread.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":33,"brand":"keto-rockets"
   },
   {
     "id": 96,
@@ -77,7 +77,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/photo1643502575-640x480.jpeg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Medium-size-Cake.jpg",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":431,"brand":"keto-rockets"
   },
   {
     "id": 97,
@@ -87,7 +87,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/photo1643502575-640x480.jpeg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Small-Size-Cake.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":312.4,"brand":"keto-rockets"
   },
   {
     "id": 98,
@@ -97,7 +97,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3208-640x426.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Cinnamon-Sticks.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":27.7,"brand":"keto-rockets"
   },
   {
     "id": 99,
@@ -107,7 +107,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/msg-353067640-21975-640x427.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Tortilla.jpg",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":138,"brand":"keto-rockets"
   },
   {
     "id": 100,
@@ -117,7 +117,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3124-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Tortilla.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":48,"brand":"keto-rockets"
   },
   {
     "id": 101,
@@ -127,7 +127,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3239-640x426.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Sambosak.jpg",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":56,"brand":"keto-rockets"
   },
   {
     "id": 102,
@@ -137,7 +137,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/photo1646863396-3-640x427.jpeg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Olive-Roll.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":45,"brand":"keto-rockets"
   },
   {
     "id": 103,
@@ -147,7 +147,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/msg-353067640-21980-640x427.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Nachos.jpg",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":14,"brand":"keto-rockets"
   },
   {
     "id": 104,
@@ -157,7 +157,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3228-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Rusk.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":75,"brand":"keto-rockets"
   },
   {
     "id": 105,
@@ -167,7 +167,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3121-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Small-Bun.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":90,"brand":"keto-rockets"
   },
   {
     "id": 106,
@@ -177,7 +177,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3121-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Small-Bun.jpg",
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":90,"brand":"keto-rockets"
   },
   {
     "id": 107,
@@ -187,7 +187,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/DSC_3226-640x425.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Biscuits.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":33,"brand":"keto-rockets"
   },
   {
     "id": 108,
@@ -197,7 +197,7 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/msg-353067640-21972-1-640x892.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Qatayef.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":31,"brand":"keto-rockets"
   },
   {
     "id": 109,
@@ -207,6 +207,6 @@
     "image": "https://keto-rockets.com/wp-content/uploads/2022/02/msg-353067640-21973-640x603.jpg",
     "nutrition": "https://keto-rockets.com/wp-content/uploads/2022/02/Ketogenic-Chocolate-Kunafa-Jar.jpg",
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":472,"brand":"keto-rockets"
   }
 ]

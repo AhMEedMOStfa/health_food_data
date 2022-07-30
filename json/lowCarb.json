@@ -9,7 +9,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/low-carb-ranch-chips-300x109.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 111,
@@ -20,7 +20,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/05/Tasty-Bites_Party-ingredients.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":140,"brand":"lowcarbcabana"
     },
     {
       "id": 112,
@@ -31,7 +31,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/05/low-carb-pretzels.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":120,"brand":"lowcarbcabana"
     },
     {
       "id": 113,
@@ -42,7 +42,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/06/bbq-chips-300x111.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 114,
@@ -53,7 +53,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/sea-salt-vinegar-chips-low-carb-300x110.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 115,
@@ -64,7 +64,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/low-carb-pizza-chips-300x110.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 116,
@@ -75,7 +75,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/07/lemon_wafer-ingredients-1.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":200,"brand":"lowcarbcabana"
     },
     {
       "id": 117,
@@ -86,7 +86,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/07/lemon_wafer-ingredients-1.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":200,"brand":"lowcarbcabana"
     },
     {
       "id": 118,
@@ -97,7 +97,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2022/06/high-protein-donut-nutrition-chocolate-350x350.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 119,
@@ -108,7 +108,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2022/06/high-protein-donut-nutrition-cake-batter-350x350.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 120,
@@ -119,7 +119,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/10/Gingerbread-Mug-Cake-Nutrition-700x359-300x154.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 121,
@@ -130,7 +130,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2022/03/strawberry-nutrition-300x226.webp",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":100,"brand":"lowcarbcabana"
     }
   ],
   "soup": [
@@ -143,7 +143,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/10/BROCCOLI-SOUP-NUTRITION-300x173.webp",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":80,"brand":"lowcarbcabana"
     },
     {
       "id": 123,
@@ -154,7 +154,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/07/Chicken-WildRice-Nutrition-300x291.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":117,"brand":"lowcarbcabana"
     },
     {
       "id": 124,
@@ -165,7 +165,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/07/low-carb-Cheese-Dip.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":110,"brand":"lowcarbcabana"
     },
     {
       "id": 125,
@@ -176,7 +176,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/07/Savory-Onion-Soup-Nutrition-300x277.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 126,
@@ -187,7 +187,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/10/BROCCOLI-SOUP-NUTRITION-300x173.webp",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":80,"brand":"lowcarbcabana"
     },
     {
       "id": 127,
@@ -198,7 +198,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2018/05/zesty-italian-nutrition-soup-300x277.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 128,
@@ -209,7 +209,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2018/05/creamy-chicken-soup-nutrition-300x267.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 129,
@@ -220,7 +220,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2017/11/chicken-pasta-soup-350x350.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":70,"brand":"lowcarbcabana"
     },
     {
       "id": 130,
@@ -231,7 +231,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/CREAM-OF-BROCCOLI-SOUP-NUTRITION-300x173.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":80,"brand":"lowcarbcabana"
     },
     {
       "id": 131,
@@ -242,7 +242,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/CREAM-OF-TOMATO-SOUP-NUTRITION-300x172.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 132,
@@ -253,7 +253,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/Cream-of-Mushroom-Soup-Nutrition-300x153.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":90,"brand":"lowcarbcabana"
     },
     {
       "id": 133,
@@ -264,7 +264,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/keto-CREAM-OF-CHICKEN-SOUP-NUTRITION-300x159.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     }
   ],
   "pasta": [
@@ -277,7 +277,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/01/Proti-Pasta-Orzo-300x269.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":110,"brand":"lowcarbcabana"
     },
     {
       "id": 135,
@@ -288,7 +288,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/04/chickenalfredo_nutrition.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
       "id": 136,
@@ -299,7 +299,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/04/creamychickenpasta_nutrition-1.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":120,"brand":"lowcarbcabana"
     },
     {
       "id": 137,
@@ -310,7 +310,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2018/09/nutrition-proti-thin-high-protein-pasta-fusilli-300x231.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":110,"brand":"lowcarbcabana"
     }
   ],
   "baverage": [
@@ -323,7 +323,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/10/THICK-CHOCOLATE-SHAKE-SHAKE-NUTRITION-1-300x157.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":90,"brand":"lowcarbcabana"
     },
     {
       "id": 139,
@@ -334,7 +334,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/10/Choco-Coco-Shake-Pudding-Nutrition-300x154.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 140,
@@ -345,7 +345,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2020/10/THICK-VANILLA-SHAKE-SHAKE-NUTRITION-1-300x160.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":80,"brand":"lowcarbcabana"
     },
     {
       "id": 141,
@@ -356,7 +356,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/03/ORANGE-SINGLE-SHOT-NUTRITION-1-700x376.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":60,"brand":"lowcarbcabana"
     },
     {
       "id": 142,
@@ -367,7 +367,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/03/CRANGRAPE-SINGLE-SHOT-NUTRITION.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":60,"brand":"lowcarbcabana"
     },
     {
       "id": 143,
@@ -378,7 +378,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2019/03/APPLE-SINGLE-SHOT.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":60,"brand":"lowcarbcabana"
     },
     {
       "id": 144,
@@ -389,7 +389,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/06/variety-shake.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 145,
@@ -397,10 +397,10 @@
       "price":  48.00,
       "body": "Looking for that perfect hot chocolate on a cool evening? Want a rich drink to wake up with in the am? Look no further than our line of deliciously flavored, high protein, hot chocolates. You will love these awesome drinks without the guilt of carbs!",
       "image": "https://www.lowcarbcabana.com/wp-content/uploads/2016/06/HOT-CHOCOLATE1-310x310.png",
-      "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/06/HOT-CHOCOLATE1-310x310.png",
+      "nutrition": "",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
       "id": 146,
@@ -411,7 +411,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/06/variety-hot-chocolate-pack-300x305.jpg",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":70,"brand":"lowcarbcabana"
     },
     {
       "id": 147,
@@ -422,7 +422,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/06/mocha-hot-chocolate-300x112.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": true
+      "sale": true,"calories":90,"brand":"lowcarbcabana"
     },
     {
       "id": 148,
@@ -433,7 +433,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/strawberry-shake-300x110.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":90,"brand":"lowcarbcabana"
     },
     {
       "id": 149,
@@ -444,7 +444,7 @@
       "nutrition": "https://www.lowcarbcabana.com/wp-content/uploads/2016/04/banana-shake-300x112.png",
       "brandUrl": "https://www.lowcarbcabana.com/",
       "amount": 10,
-      "sale": false
+      "sale": false,"calories":90,"brand":"lowcarbcabana"
     }
   ]
 }

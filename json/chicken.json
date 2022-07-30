@@ -7,7 +7,7 @@
     "weight": "600g",
     "price":  72.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":142,"brand":"gourmet"
   },
   {
     "id": 25,
@@ -17,7 +17,7 @@
     "weight": "550g",
     "price":  68.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":152,"brand":"gourmet"
   },
   {
     "id": 26,
@@ -27,7 +27,7 @@
     "weight": "500g",
     "price":  31.32,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":134,"brand":"gourmet"
   },
   {
     "id": 27,
@@ -37,7 +37,7 @@
     "weight": "1.2kg",
     "price":  80.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":138,"brand":"gourmet"
   },
   {
     "id": 28,
@@ -47,7 +47,7 @@
     "weight": "550g",
     "price":  24.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":155,"brand":"gourmet"
   },
   {
     "id": 29,
@@ -57,7 +57,7 @@
     "weight": "500g",
     "price":  35.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":185,"brand":"gourmet"
   },
   {
     "id": 30,
@@ -67,7 +67,7 @@
     "weight": "1.1kg",
     "price":  106.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":172,"brand":"gourmet"
   },
   {
     "id": 31,
@@ -77,7 +77,7 @@
     "weight": "500g",
     "price":  106.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":142,"brand":"gourmet"
   },
   {
     "id": 32,
@@ -87,7 +87,7 @@
     "weight": "2kg",
     "price":  389.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":152,"brand":"gourmet"
   },
   {
     "id": 33,
@@ -97,7 +97,7 @@
     "weight": "2kg",
     "price":  368.00,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":145,"brand":"gourmet"
   },
   {
     "id": 34,
@@ -107,7 +107,7 @@
     "weight": "500g",
     "price":  36.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":148,"brand":"gourmet"
   },
   {
     "id": 35,
@@ -117,7 +117,7 @@
     "weight": "500g",
     "price":  110.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":152,"brand":"gourmet"
   },
   {
     "id": 36,
@@ -127,7 +127,7 @@
     "weight": "1.2kg",
     "price":  148.99,
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":155,"brand":"gourmet"
   },
   {
     "id": 37,
@@ -137,7 +137,7 @@
     "weight": "500g",
     "price":  69.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":172,"brand":"gourmet"
   },
   {
     "id": 38,
@@ -147,7 +147,7 @@
     "weight": "1kg",
     "price":  152.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":188,"brand":"freshfood"
   },
   {
     "id": 39,
@@ -157,7 +157,7 @@
     "weight": "1kg",
     "price":  69.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":195,"brand":"freshfood"
   },
   {
     "id": 40,
@@ -167,7 +167,7 @@
     "weight": "600g",
     "price":  95.99,
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":152,"brand":"gourmet"
   },
   {
     "id": 41,
@@ -177,7 +177,7 @@
     "weight": "600g",
     "price":  57.88,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":170,"brand":"gourmet"
   },
   {
     "id": 42,
@@ -187,7 +187,7 @@
     "weight": "2kg",
     "price":  135.99,
     "amount": 10,
-    "sale": false
+    "sale": false,"calories":180,"brand":"gourmet"
   },
   {
     "id": 43,
@@ -197,6 +197,6 @@
     "weight": "550g",
     "price":  118.99,
     "amount": 10,
-    "sale": true
+    "sale": true,"calories":165,"brand":"gourmet"
   }
 ]
