@@ -57,8 +57,9 @@
     }
   ],
 
-  "fruits":[
+  "allCategory":[
     {
+      "category":"fruits",
       "id": 44,
       "title": "Fresh Coconut - 1 Piece",
       "body": "This Fresh Coconut is a naturally cultivated food item with high mineral content. Its coconut oil helps to increase good (HDL) cholesterol and lowers bad (LDL) cholesterol. The coconut contains an abundance of fiber that keeps your digestive system healthy and helps to maintain regular bowel movement. This fresh coconut also provides water, milk, and coconut flesh that may aid in weight loss.",
@@ -70,6 +71,7 @@
       "sale": false,"calories":42,"brand":"freshfood"
     },
     {
+      "category":"fruits",
       "id": 45,
       "title": "Lemon Baladi, Fresh 500g",
       "body": " Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table",
@@ -81,6 +83,7 @@
       "sale": false,"calories":32,"brand":"gourmet"
     },
     {
+      "category":"fruits",
       "id": 46,
       "title": "White Grapes, Fresh 500g",
       "body": "We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, ",
@@ -90,11 +93,9 @@
       "price":  19.00,
       "amount": 10,
       "sale": false,"calories":55,"brand":"gourmet"
-    }
-  ]
-  ,
-  "chicken":[
+    },
     {
+      "category":"chicken",
       "id": 24,
       "title": "Fresh Chicken Breasts",
       "body": "Enjoy our fresh & tender chicken breasts, made with hormone-free & grain-fed chickens, sourced from the most sustainable Egyptian suppliers. Have them grilled, pan-fried or baked in the oven. Serve with Gourmet Roasted Vegetables, Gourmet Mashed Potato or your favorite Gourmet fresh salad for a delicious & filling meal!",
@@ -105,6 +106,7 @@
       "sale": false,"calories":142,"brand":"gourmet"
     },
     {
+      "category":"chicken",
       "id": 25,
       "title": "Fresh Chicken Escalope",
       "body": "Fresh and juicy premium chicken escalope that can be enjoyed fried, breaded or rolled. Delicious in every bite. For a hearty, yummy meal, add a tasty mushroom sauce and some mashed potatoes as a side. It's that simple!",
@@ -115,6 +117,7 @@
       "sale": false,"calories":152,"brand":"gourmet"
     },
     {
+      "category":"chicken",
       "id": 26,
       "title": "Fresh Chicken Leg",
       "body": "Makes the perfect quick dinner fix and great party food! Can be cooked in so many different ways. Delicious caramelised and baked in the oven (use your preferred marinade for a juicy glaze) or breaded and fried. Serve with Gourmet Dip It Tzatziki and your preferred Gourmet fresh salad. Our chicken are sourced from the most sustainable Egyptian suppliers, they are hormone free and grain fed.",
@@ -125,6 +128,7 @@
       "sale": false,"calories":134,"brand":"gourmet"
     },
     {
+      "category":"chicken",
       "id": 27,
       "title": "Fresh Whole Chicken",
       "body": "Enjoy our fresh whole chicken, hormone free & grain fed sourced from the most sustainable Egyptian suppliers. We recommend serving our whole chicken roasted in the oven with fresh rosemary, carrots & baby potatoes. Serve with Gourmet Mashed Potato with Nutmeg and Gourmet Roasted Vegetables for a delicious and easy-to-prepare meal!",
@@ -135,6 +139,7 @@
       "sale": false,"calories":138,"brand":"gourmet"
     },
     {
+      "category":"chicken",
       "id": 28,
       "title": "Fresh Chicken Wings",
       "body": "Enjoy our fresh chicken wings, made with hormone free & grain fed chickens, sourced from the most sustainable Egyptian suppliers. We recommend serving our chicken wings baked in the oven with a splash of BBQ and Worcestershire sauce!",
@@ -145,6 +150,7 @@
       "sale": false,"calories":155,"brand":"gourmet"
     },
     {
+      "category":"chicken",
       "id": 29,
       "title": "Fresh Chicken Liver",
       "body": "Our fresh chicken liver, made with hormone free & grain fed chickens and sourced from the most sustainable Egyptian suppliers.",
@@ -153,11 +159,9 @@
       "price":  35.99,
       "amount": 10,
       "sale": false,"calories":185,"brand":"gourmet"
-    }
-  ]
-  ,
-  "vegetables":[
+    },
     {
+      "category":"vegetables",
       "id": 265,
       "title": "Cucumbers Fresh",
       "body": "Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured; Gourmet Fresh produce is screened through a meticulous, global standard selection process. All to ensure that when you shop with Gourmet, you shop in confidence",
@@ -168,6 +172,7 @@
       "sale": false,"calories":40,"brand":"gourmet"
     },
     {
+      "category":"vegetables",
       "id": 266,
       "title": "Tomatoes Fresh",
       "body": "Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured; Gourmet Fresh produce is screened through a meticulous, global standard selection process. All to ensure that when you shop with Gourmet, you shop in confidence",
@@ -178,6 +183,7 @@
       "sale": true,"calories":36,"brand":"gourmet"
     },
     {
+      "category":"vegetables",
       "id": 267,
       "title": "Cherry Tomatoes Fresh",
       "body": "Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured; Gourmet Fresh produce is screened through a meticulous, global standard selection process. All to ensure that when you shop with Gourmet, you shop in confidence",
@@ -188,6 +194,7 @@
       "sale": false,"calories":30,"brand":"gourmet"
     },
     {
+      "category":"vegetables",
       "id": 268,
       "title": "Baby Broccoli 12X200G",
       "body": "Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured; Gourmet Fresh produce is screened through a meticulous, global standard selection process. All to ensure that when you shop with Gourmet, you shop in confidence",
@@ -196,11 +203,9 @@
       "price":  118.00,
       "amount": 10,
       "sale": false,"calories":46,"brand":"freshfood"
-    }
-  ]
-  ,
-  "keto":[
+    },
     {
+      "category":"keto",
       "id": 89,
       "title": "Tuna Pizza",
       "price":  130.00,
@@ -211,6 +216,7 @@
       "sale": false,"calories":129,"brand":"keto-rockets"
     },
     {
+      "category":"keto",
       "id": 90,
       "title": "Salami Pizza",
       "price":  130.00,
@@ -221,6 +227,7 @@
       "sale": false,"calories":142,"brand":"keto-rockets"
     },
     {
+      "category":"keto",
       "id": 91,
       "title": "Chicken Pizza",
       "price":  125.00,
@@ -231,6 +238,7 @@
       "sale": true,"calories":128,"brand":"keto-rockets"
     },
     {
+      "category":"keto",
       "id": 92,
       "title": "Double Beaf Burger Sandwich",
       "price":  160.00,
@@ -241,6 +249,7 @@
       "sale": false,"calories":781,"brand":"keto-rockets"
     },
     {
+      "category":"keto",
       "id": 93,
       "title": "Ketogenic Cake",
       "price":  310.00,
@@ -250,6 +259,7 @@
       "amount": 10,
       "sale": true,"calories":128,"brand":"keto-rockets"
     }
+
   ]
   ,
   "topProducts": [

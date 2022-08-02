@@ -1,6 +1,7 @@
  {
   "dairy": [
     {
+      "category":"dairy",
       "id": 237,
       "title": "Violife Vegan Mediterranean-Style Block",
       "price":  62.00,
@@ -13,6 +14,7 @@
       "sale": true,"calories":570,"brand":"gourmet"
     },
     {
+      "category":"dairy",
       "id": 238,
       "title": "Violife Mozzarella Flavoured Vegan Cheese",
       "price":  62.00,
@@ -25,6 +27,7 @@
       "sale": false,"calories":610,"brand":"gourmet"
     },
     {
+      "category":"dairy",
       "id": 239,
       "title": "GoodEarth Grated Vegan Cheese",
       "price":  34.00,
@@ -37,6 +40,7 @@
       "sale": true,"calories":400,"brand":"gourmet"
     },
     {
+      "category":"dairy",
       "id": 240,
       "title": "Good Earth Mature Cheddar Slices",
       "price":  42.00,
@@ -49,6 +53,7 @@
       "sale": false,"calories":520,"brand":"gourmet"
     },
     {
+      "category":"dairy",
       "id": 241,
       "title": "Good Earth Vegan Pizza Cheese",
       "price":  62.00,
@@ -61,6 +66,7 @@
       "sale": false,"calories":430,"brand":"gourmet"
     },
     {
+      "category":"dairy",
       "id": 242,
       "title": "Violife Vegan Cheese Slice with Hot Peppers",
       "price":  62.00,
@@ -75,6 +81,7 @@
   ],
   "meatSubstitution": [
     {
+      "category":"meatSubstitution",
       "id": 243,
       "title": "Plantful Vegan Burger Patties",
       "price":  110.0,
@@ -87,6 +94,7 @@
       "sale": false,"calories":266,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 244,
       "title": "Plantful Vegan Pane",
       "price":  123.0,
@@ -99,6 +107,7 @@
       "sale": false,"calories":254,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 245,
       "title": "Vegan Lentil Kofta",
       "price":  97.00,
@@ -111,6 +120,7 @@
       "sale": true,"calories":540,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 246,
       "title": "Meatless Farm Vegan Nuggets 200g",
       "price":  140.0,
@@ -123,6 +133,7 @@
       "sale": true,"calories":450,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 247,
       "title": "Vegan Mushroom Burger",
       "price":  118.0,
@@ -135,6 +146,7 @@
       "sale": false,"calories":610,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 248,
       "title": "Meatless Farm Vegan Burgers",
       "price":  140.0,
@@ -147,6 +159,7 @@
       "sale": false,"calories":590,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 249,
       "title": "Meatless Vegan Chicken Escalope",
       "price":  140.0,
@@ -159,6 +172,7 @@
       "sale": false,"calories":220,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 250,
       "title": "Plantful Vegan Minced Meat",
       "price":  110.0,
@@ -171,6 +185,7 @@
       "sale": true,"calories":307,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 251,
       "title": "Good Earth Not Minced Meat",
       "price":  110.0,
@@ -183,6 +198,7 @@
       "sale": false,"calories":520,"brand":"gourmet"
     },
     {
+      "category":"meatSubstitution",
       "id": 252,
       "title": "Meatless Farm Meatless Meatballs",
       "price":  135.0,
@@ -197,6 +213,7 @@
   ],
   "readyToEat": [
     {
+      "category":"readyToEat",
       "id": 253,
       "title": "Oriental Frozen Stuffed Vine Leaves",
       "price":  150.0,
@@ -209,6 +226,7 @@
       "sale": false,"calories":100,"brand":"gourmet"
     },
     {
+      "category":"readyToEat",
       "id": 254,
       "title": "Egyptian Koshary",
       "price":  60.00,
@@ -221,6 +239,7 @@
       "sale": false,"calories":160,"brand":"gourmet"
     },
     {
+      "category":"readyToEat",
       "id": 255,
       "title": "Roasted Vegetables",
       "price":  100.0,
@@ -233,6 +252,7 @@
       "sale": true,"calories":110,"brand":"gourmet"
     },
     {
+      "category":"readyToEat",
       "id": 256,
       "title": "Vegan Molokhia",
       "price":  45.00,
@@ -245,6 +265,7 @@
       "sale": false,"calories":550,"brand":"gourmet"
     },
     {
+      "category":"readyToEat",
       "id": 257,
       "title": "Vegan Go Bowl",
       "price":  110.0,
@@ -257,6 +278,7 @@
       "sale": false,"calories":640,"brand":"gourmet"
     },
     {
+      "category":"readyToEat",
       "id": 258,
       "title": "Cooked Egyptian Rice With Vermicelli",
       "price":  60.00,
@@ -271,6 +293,7 @@
   ],
   "veganSweet": [
     {
+      "category":"veganSweet",
       "id": 259,
       "title": "Granville Vegan Chocolate Chunki",
       "price":  30.00,
@@ -283,6 +306,7 @@
       "sale": false,"calories":120,"brand":"gourmet"
     },
     {
+      "category":"veganSweet",
       "id": 260,
       "title": "Dara's Vegan Chocolate Ice Cream",
       "price":  140.0,
@@ -295,6 +319,7 @@
       "sale": true,"calories":108,"brand":"gourmet"
     },
     {
+      "category":"veganSweet",
       "id": 261,
       "title": "Granville Cinnamon Bun Cookies",
       "price":  35.00,
@@ -307,6 +332,7 @@
       "sale": false,"calories":66,"brand":"gourmet"
     },
     {
+      "category":"veganSweet",
       "id": 262,
       "title": "Granville Peanut Butter Vegan Chocolate Crunch Cookie",
       "price":  30.00,
@@ -319,6 +345,7 @@
       "sale": true,"calories":78,"brand":"gourmet"
     },
     {
+      "category":"veganSweet",
       "id": 263,
       "title": "Granville Butterscotch Pecan Cookie",
       "price":  30.00,
@@ -331,6 +358,7 @@
       "sale": true,"calories":90,"brand":"gourmet"
     },
     {
+      "category":"veganSweet",
       "id": 264,
       "title": "Vegan Mango Chia Pudding",
       "price":  60.00,

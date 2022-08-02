@@ -1,6 +1,7 @@
  {
   "snacks": [
     {
+      "category":"snacks",
       "id": 110,
       "title": "Ranch Protein Chips",
       "price":  45.00,
@@ -12,6 +13,7 @@
       "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 111,
       "title": "Party Mix",
       "price":  45.00,
@@ -23,6 +25,7 @@
       "sale": false,"calories":140,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 112,
       "title": "Pretzel Twists",
       "price":  48.00,
@@ -34,6 +37,7 @@
       "sale": true,"calories":120,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 113,
       "title": "BBQ Crunch Protein Chips",
       "price":  45.00,
@@ -45,6 +49,7 @@
       "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 114,
       "title": "Sea Salt and Vinegar Protein Chips",
       "price":  45.00,
@@ -56,6 +61,7 @@
       "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 115,
       "title": "Pizza Protein Chips",
       "price":  45.00,
@@ -67,6 +73,7 @@
       "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 116,
       "title": "Raspberry Proti Wafers",
       "price":  112.0,
@@ -78,6 +85,7 @@
       "sale": true,"calories":200,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 117,
       "title": "Lemon Proti Wafers",
       "price":  112.0,
@@ -89,6 +97,7 @@
       "sale": false,"calories":200,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 118,
       "title": "Protein Donut – Chocolate",
       "price":  54.00,
@@ -100,6 +109,7 @@
       "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 119,
       "title": "Protein Donut – Cake Batter",
       "price":  54.00,
@@ -111,6 +121,7 @@
       "sale": true,"calories":130,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 120,
       "title": "Chocolate caramel mug cake",
       "price":  85.00,
@@ -122,6 +133,7 @@
       "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
+      "category":"snacks",
       "id": 121,
       "title": "Strawberry Shake / Pudding",
       "price":  78.00,
@@ -135,6 +147,7 @@
   ],
   "soup": [
     {
+      "category":"soup",
       "id": 122,
       "title": "Broccoli Cheddar Soup",
       "price":  123.0,
@@ -146,6 +159,7 @@
       "sale": true,"calories":80,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 123,
       "title": "Chicken & Wild Rice Soup",
       "price":  123.0,
@@ -157,6 +171,7 @@
       "sale": false,"calories":117,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 124,
       "title": "Cheddar Cheese Suace",
       "price":  63.00,
@@ -168,6 +183,7 @@
       "sale": true,"calories":110,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 125,
       "title": "Savory Onion Soup",
       "price":  53.00,
@@ -179,6 +195,7 @@
       "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 126,
       "title": "Broccoli Cheddar Soup",
       "price":  123.0,
@@ -190,6 +207,7 @@
       "sale": false,"calories":80,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 127,
       "title": "Zesty Italian Cream of Tomato Soup",
       "price":  123.0,
@@ -201,6 +219,7 @@
       "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 128,
       "title": "Cream of Chicken with Vegetables Soup",
       "price":  123.0,
@@ -212,6 +231,7 @@
       "sale": true,"calories":100,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 129,
       "title": "Chicken with Pasta",
       "price":  73.00,
@@ -223,6 +243,7 @@
       "sale": false,"calories":70,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 130,
       "title": "Cream of Broccoli",
       "price":  58.00,
@@ -234,6 +255,7 @@
       "sale": false,"calories":80,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 131,
       "title": "Cream of Tomato",
       "price":  123.0,
@@ -245,6 +267,7 @@
       "sale": true,"calories":100,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 132,
       "title": "Cream of Mushroom",
       "price":  123.0,
@@ -256,6 +279,7 @@
       "sale": false,"calories":90,"brand":"lowcarbcabana"
     },
     {
+      "category":"soup",
       "id": 133,
       "title": "Cream of Chicken",
       "price":  123.0,
@@ -269,6 +293,7 @@
   ],
   "pasta": [
     {
+      "category":"pasta",
       "id": 134,
       "title": "Proti High Protein Orzo",
       "price":  98.00,
@@ -280,6 +305,7 @@
       "sale": true,"calories":110,"brand":"lowcarbcabana"
     },
     {
+      "category":"pasta",
       "id": 135,
       "title": "Alfredo Chicken Pasta",
       "price":  98.00,
@@ -291,6 +317,7 @@
       "sale": false,"calories":130,"brand":"lowcarbcabana"
     },
     {
+      "category":"pasta",
       "id": 136,
       "title": "High Protein Creamy Chicken Pasta",
       "price":  98.00,
@@ -302,6 +329,7 @@
       "sale": false,"calories":120,"brand":"lowcarbcabana"
     },
     {
+      "category":"pasta",
       "id": 137,
       "title": "Proti-Thin High Protein Fusilli",
       "price":  98.00,
@@ -315,6 +343,7 @@
   ],
   "baverage": [
     {
+      "category":"baverage",
       "id": 138,
       "title": "Thick Chocolate Protein Shaker",
       "price":  32.00,
@@ -326,6 +355,7 @@
       "sale": true,"calories":90,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 139,
       "title": "Chocolate Coconut Protein Shaker",
       "price":  32.00,
@@ -337,6 +367,7 @@
       "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 140,
       "title": "Thick Vanilla Protein Shaker",
       "price":  32.00,
@@ -348,6 +379,7 @@
       "sale": false,"calories":80,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 141,
       "title": "High Protein Orange Shot",
       "price":  27.00,
@@ -359,6 +391,7 @@
       "sale": false,"calories":60,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 142,
       "title": "High Protein Cran-Grape Shot",
       "price":  27.00,
@@ -370,6 +403,7 @@
       "sale": true,"calories":60,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 143,
       "title": "High Protein Apple Shot",
       "price":  27.00,
@@ -381,6 +415,7 @@
       "sale": false,"calories":60,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 144,
       "title": "Variety Pack Shake / Pudding",
       "price":  42.00,
@@ -392,6 +427,7 @@
       "sale": true,"calories":100,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 145,
       "title": "Classic Hot Chocolate",
       "price":  48.00,
@@ -403,6 +439,7 @@
       "sale": false,"calories":100,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 146,
       "title": "Variety Pack Hot Chocolate",
       "price":  32.00,
@@ -414,6 +451,7 @@
       "sale": false,"calories":70,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 147,
       "title": "Mocha Hot Chocolate",
       "price":  48.00,
@@ -425,6 +463,7 @@
       "sale": true,"calories":90,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 148,
       "title": "Strawberry Meal Replacement",
       "price":  52.00,
@@ -436,6 +475,7 @@
       "sale": false,"calories":90,"brand":"lowcarbcabana"
     },
     {
+      "category":"baverage",
       "id": 149,
       "title": "Banana Shake / Pudding",
       "price":  42.00,

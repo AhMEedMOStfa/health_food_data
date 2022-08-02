@@ -1,6 +1,7 @@
  {
   "beef": [
     {
+      "category":"beef",
       "id": 174,
       "title": "Angus Beef Strips - 1K",
       "body": "",
@@ -11,6 +12,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 175,
       "title": "Angus Beef Ribeye Steak 1K",
       "body": "",
@@ -21,6 +23,7 @@
       "sale": true,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 176,
       "title": "Angus Beef Topside Steak 1K",
       "body": "",
@@ -31,6 +34,7 @@
       "sale": true,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 177,
       "title": "Angus Beef Rump Steak 1K",
       "body": "",
@@ -41,6 +45,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 178,
       "title": "Angus Beef Ribeye Bone In Steak 1K",
       "body": "",
@@ -51,6 +56,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 179,
       "title": "Beef Liver - 1kg",
       "body": "",
@@ -61,6 +67,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 180,
       "title": "Beef Topside Steak - 1kg",
       "body": "",
@@ -71,6 +78,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 181,
       "title": "Frozen South African Sliced Veal Liver",
       "body": "",
@@ -81,6 +89,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 182,
       "title": "Chilled Aussie Beef Sirloin Steak",
       "body": "",
@@ -91,6 +100,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 183,
       "title": "Chilled Aussie Wagyu Beef Sirloin Steak",
       "body": "",
@@ -101,6 +111,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 184,
       "title": "Chilled Aussie Beef Topside Roast",
       "body": "",
@@ -111,6 +122,7 @@
       "sale": true,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 185,
       "title": "Chilled Young Angus Beef Fillet Steak            ",
       "body": "",
@@ -121,6 +133,7 @@
       "sale": false,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 186,
       "title": "Chilled Young Angus Beef Whole Rib Eye",
       "body": "",
@@ -131,6 +144,7 @@
       "sale": true,"calories":250,"brand":"freshfood"
     },
     {
+      "category":"beef",
       "id": 187,
       "title": "Chilled Aussie Beef Whole Sirloin Roast",
       "body": "",
@@ -143,6 +157,7 @@
   ],
   "lamb": [
     {
+      "category":"lamb",
       "id": 188,
       "title": "Frozen Australian Bone in Lamb Leg",
       "body": "",
@@ -153,6 +168,7 @@
       "sale": true,"calories":294,"brand":"freshfood"
     },
     {
+      "category":"lamb",
       "id": 189,
       "title": "Frozen Aussie Boneless Lamb Leg",
       "body": "",
@@ -163,6 +179,7 @@
       "sale": false,"calories":294,"brand":"freshfood"
     },
     {
+      "category":"lamb",
       "id": 190,
       "title": "Frozen Australian Sliced Lamb Leg",
       "body": "",
@@ -173,6 +190,7 @@
       "sale": true,"calories":294,"brand":"freshfood"
     },
     {
+      "category":"lamb",
       "id": 191,
       "title": "Lamb Legs with Bones - 1kg",
       "body": "",
@@ -183,6 +201,7 @@
       "sale": false,"calories":294,"brand":"freshfood"
     },
     {
+      "category":"lamb",
       "id": 192,
       "title": "Lamb Chops - 1kg",
       "body": "",
@@ -193,6 +212,7 @@
       "sale": false,"calories":294,"brand":"freshfood"
     },
     {
+      "category":"lamb",
       "id": 193,
       "title": "Lamb Neck - 1kg",
       "body": "",
@@ -203,6 +223,7 @@
       "sale": true,"calories":294,"brand":"freshfood"
     },
     {
+      "category":"lamb",
       "id": 194,
       "title": "Frozen Australian Bone in Lamb Leg Cubes",
       "body": "",

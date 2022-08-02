@@ -1,6 +1,7 @@
  {
   "croissant": [
     {
+      "category":"croissant",
       "id": 1,
       "title": "Emmental French Croissant",
       "body": "Freshly baked cheese croissant that combines the intense flavour of Emmental cheese with the subtlety of pure butter to create a perfectly balanced soft interior and sprinkled with crispy golden cheese on top giving it the right amount of crunch.",
@@ -15,6 +16,7 @@
       "sale": false,"calories":185,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 2,
       "title": "Emmental French Croissant",
       "body": "Freshly baked mini croissant with a soft, rich buttery interior and just the right amount of crunch.",
@@ -29,6 +31,7 @@
       "sale": false,"calories":165,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 3,
       "title": "French Mini Butter Pain au Chocolat",
       "body": "Freshly baked pain au chocolat that combines the intense flavour of chocolate with the subtlety of pure butter to create a perfectly balanced puff pastry with a soft interior and a light crisp exterior..",
@@ -43,6 +46,7 @@
       "sale": false,"calories":180,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 4,
       "title": "French Mini Croissant",
       "body": "Freshly baked mini croissants with a soft, rich buttery interior and just the right amount of crunch.",
@@ -57,6 +61,7 @@
       "sale": true,"calories":170,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 5,
       "title": "Salted Pizza Twist",
       "body": "Freshly baked pizza twist stuffed with mushrooms, cheese and olives mixed together in tomato sauce making the perfect puff pastry with just the right amount of crunch.",
@@ -71,6 +76,7 @@
       "sale": false,"calories":185,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 6,
       "title": "French Butter Croissant",
       "body": "Freshly baked croissant with a soft, rich buttery interior and just the right amount of crunch.",
@@ -85,6 +91,7 @@
       "sale": true,"calories":210,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 7,
       "title": "Mini Emmental Cheese Pate",
       "body": "Freshly baked cheese pate that combines the intense flavour of Emmental cheese with the subtlety of pure butter to create a perfectly balanced soft interior and sprinkled with crispy golden cheese on top giving it the right amount of crunch.",
@@ -99,6 +106,7 @@
       "sale": false,"calories":220,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 8,
       "title": "French Cinnamon Roll",
       "body": "Freshly baked cinnamon roll that combines the intense spice of cinnamon with the meltingly smooth pure butter flavour in a balanced mix to create the perfect puff pastry with a soft interior and a light crisp exterior",
@@ -113,6 +121,7 @@
       "sale": true,"calories":110,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 9,
       "title": "Chocolate Chip Twist",
       "body": "Freshly baked buttery twist stuffed with pieces of chocolate chips making the perfect puff pastry with just the right amount of crunch.",
@@ -127,6 +136,7 @@
       "sale": false,"calories":190,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 10,
       "title": "Croissant Bun",
       "body": "Freshly baked croissant bun with a soft, rich buttery interior and just the right amount of crunch. Cut open to fill with your favorite toppings and create your own croissant sandwich.",
@@ -141,6 +151,7 @@
       "sale": false,"calories":210,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 11,
       "title": "French Zaatar Croissant",
       "body": "Freshly baked croissant with a soft, rich buttery interior and sprinkled with fresh Zaatar on top; giving it just the right amount of crunch.",
@@ -155,6 +166,7 @@
       "sale": false,"calories":110,"brand":"gourmet"
     },
     {
+      "category":"croissant",
       "id": 12,
       "title": "Mini Savory Croissant Get Together Box",
       "body": "Our get together croissant box consists of an assortment of 14 croissants, giving everyone a taste of our fresh goodness. With a little bit of everything for everyone, our box has Bresaola & Grana Padano, Emmental, Smoked salmon, Turkey & Emmental, Roast Beef & Cheddar, making it a staple for every gathering. Gather up and share the love!",
@@ -171,6 +183,7 @@
   ],
   "cakes": [
     {
+      "category":"cakes",
       "id": 13,
       "title": "Loves Cake Classic Marble Cake",
       "body": "Gourmet Loves Cake is low in sugar and baked freshly in small batches from all-natural ingredient making it lighter than regular cake. It is the perfect partner for your morning coffee.",
@@ -185,6 +198,7 @@
       "sale": false,"calories":170,"brand":"gourmet"
     },
     {
+      "category":"cakes",
       "id": 14,
       "title": "Bakery Fresh Madeleines",
       "body": "Sweeten your morning or afternoon tea or coffee with our delicious Madeleines. These puffy French butter cakes are baked to perfection and can be eaten on their own or topped with jam.",
@@ -199,6 +213,7 @@
       "sale": false,"calories":100,"brand":"gourmet"
     },
     {
+      "category":"cakes",
       "id": 15,
       "title": "Loves Cake Vegan Banana Cake",
       "body": "Gourmet Loves Cake is low in sugar and baked freshly in small batches from all-natural ingredient making it lighter than regular cake. It is the perfect partner for your morning coffee.",
@@ -213,6 +228,7 @@
       "sale": true,"calories":60,"brand":"gourmet"
     },
     {
+      "category":"cakes",
       "id": 16,
       "title": "Loves Cake Date & Carrot Streusel",
       "body": "Gourmet Loves Cake is low in sugar and baked freshly in small batches from all-natural ingredient making it lighter than regular cake. It is the perfect partner for your morning coffee.",
@@ -227,6 +243,7 @@
       "sale": false,"calories":80,"brand":"gourmet"
     },
     {
+      "category":"cakes",
       "id": 17,
       "title": "Loves Cake Orange & Chia Seeds Cake",
       "body": "Gourmet Loves Cake is low in sugar and baked freshly in small batches from all-natural ingredient making it lighter than regular cake. It is the perfect partner for your morning coffee.",
@@ -241,6 +258,7 @@
       "sale": true,"calories":70,"brand":"gourmet"
     },
     {
+      "category":"cakes",
       "id": 18,
       "title": "Plain Muffin",
       "body": "Enjoy the taste of sweet, moist, plain muffins; perfect to eat with tea and coffee.            ",
@@ -255,6 +273,7 @@
       "sale": false,"calories":130,"brand":"gourmet"
     },
     {
+      "category":"cakes",
       "id": 19,
       "title": "Baked Gluten Free Roasted Almond Cookie Cup            ",
       "body": "Gluten Free roasted almond cookie cup with seriously dark Italian chocolate. ",
@@ -271,6 +290,7 @@
   ],
   "noGluten": [
     {
+      "category":"noGluten",
       "id": 20,
       "title": "Multi-Seed Bread Roll (Contains No Gluten)",
       "body": "Freshly baked and carefully handcrafted triple seeded gluten-free bread rolls packed with linseeds, sunflower and psyllium seeds that creates the perfect balance between a thick crust with coarse texture and a soft, chewy interior.\n            Tip: Pair it with our vast selection of international cheeses or fresh nut butter.",
@@ -285,6 +305,7 @@
       "sale": false,"calories":120,"brand":"gourmet"
     },
     {
+      "category":"noGluten",
       "id": 21,
       "title": "Gourmet Bakery Bread Roll (Contains No Gluten)",
       "body": "Freshly baked and carefully handcrafted gluten-free bread rolls that creates the perfect balance between a thick crust with coarse texture and a soft, chewy interior.\n            Tip: Pair it with our vast selection of international cheeses or fresh nut butter.\n            Disclaimer: This product contains NO gluten, but it is made in a facility that processes wheat.",
@@ -299,6 +320,7 @@
       "sale": true,"calories":110,"brand":"gourmet"
     },
     {
+      "category":"noGluten",
       "id": 22,
       "title": "No Gluten Half Baguette",
       "body": "Freshly baked and carefully handcrafted gluten-free half baguette made using the finest imported Italian flour to create the perfect contrast between the crunchy & crusty exterior with soft, chewy interior.\n            Tip: Toast it and use it as the base of your garlic bread!  \n            May contain traces of: dairy products & nuts",
@@ -313,6 +335,7 @@
       "sale": false,"calories":120,"brand":"gourmet"
     },
     {
+      "category":"noGluten",
       "id": 23,
       "title": "White Toast (Contains no Gluten)",
       "body": " There's nothing more delicious and easy on the stomach than our white gluten free toast. A healthy and nutritious freshly baked bread, that everyone can enjoy! This product contains NO gluten, but it is made in a facility that processes wheat.\n            Ingredients",
